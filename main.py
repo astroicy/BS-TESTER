@@ -107,4 +107,4 @@ async def profile(ctx):
         embed.add_field(name="Error", value="Account not registered. $save #<tag> to save your brawl stars account.")
         await ctx.send(embed=embed)
 
-bot.run("OTMxNjAxMDAyMjQxNTg5Mjc4.YeGzCw.iZsUcWzNuVtNEhqfTnd1CVnlulM")
+bot.run("")
